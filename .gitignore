@@ -1,0 +1,10 @@
+# Rust build output
+target/
+**/target/
+
+# editor / temp files
+*.swp
+*.swo
+*~
+*.o
+*.bin
