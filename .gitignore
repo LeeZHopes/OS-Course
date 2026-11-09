@@ -8,3 +8,6 @@ target/
 *~
 *.o
 *.bin
+
+#report
+实验报告/
